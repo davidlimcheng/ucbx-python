@@ -4,6 +4,8 @@
 
 import numpy as np
 
+print("\nPython for Data Analysis and Scientific Computing\nCOMPSCI X433.3 - 005\nDavid Cheng\n")
+
 # Create matrix A with size (3,5) containing random numbers
 A = np.matrix(np.random.random((3,5)))
 print('Create matrix A with size (3,5) containing random numbers:')
